@@ -1,5 +1,5 @@
 const fn = () => {
-    const miString = "soy una cadena"
+    const miString = "soy una string!"
     let b = miString + " muy feliz"
     console.log(b)
 }
